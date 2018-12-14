@@ -1,3 +1,4 @@
+This project is based on section 6 and 7 of react redux course.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
